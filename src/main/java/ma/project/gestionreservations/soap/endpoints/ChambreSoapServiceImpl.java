@@ -2,7 +2,6 @@ package ma.project.gestionreservations.soap.endpoints;
 
 import ma.project.gestionreservations.restApi.models.Chambre;
 import ma.project.gestionreservations.restApi.services.ChambreService;
-import ma.project.gestionreservations.restApi.services.UtilisateurService;
 import ma.project.gestionreservations.soap.endpoints.interfaces.ChambreSoapService;
 import ma.project.gestionreservations.soap.entities.ChambreRequest;
 import ma.project.gestionreservations.soap.entities.ChambreResponse;
